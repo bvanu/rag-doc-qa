@@ -34,7 +34,6 @@ uvicorn app:app --reload
 Open http://127.0.0.1:8000/docs
 
 ## Demo
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-Live demo: [your Render URL, once deployed]
+![alt text](images/docs.png)
+![alt text](images/query-1.png)
+![alt text](images/query-2.png)
